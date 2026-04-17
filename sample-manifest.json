@@ -1,12 +1,12 @@
 {
-  "export_job_id": "04d92b51-cd07-4306-a8fc-42b875f215fe",
+  "export_job_id": "cccb0d11-2660-4342-9878-58098473f136",
   "id_short": 732829,
-  "published_at": "2026-04-14T19:58:49Z",
+  "published_at": "2026-04-17T19:59:13Z",
   "repo_name": "all-restaurants-in-clovis-california-us-sample-732829",
   "sample_asset_name": "beamstation_732829_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/732829/beamstation_732829_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 30,
   "sample_sha256": "1eb95197e523173ac2c828e76fe2fbe16a38b60775bf60f340ffd85a849405f8",
   "sample_size_bytes": 115682,
-  "total_records": 309
+  "total_records": 303
 }
