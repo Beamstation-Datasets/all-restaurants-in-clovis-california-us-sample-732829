@@ -1,6 +1,6 @@
 # All Restaurants in Clovis, California, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `732829` |
 | Location | Clovis |
 | Category | Restaurants |
-| Full dataset size | 303 records |
-| Free sample size | 30 records (9.9%) |
-| Last export | 2026-04-14T10:17:35.321890+00:00 |
+| Full dataset size | 180 records |
+| Free sample size | 18 records (10.0%) |
+| Last export | 2026-04-21T10:19:49.764285+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clovis-california-us-sample-732829/releases/download/sample-latest/beamstation_732829_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
