@@ -9,9 +9,9 @@
 | Dataset ID | `732829` |
 | Location | Clovis |
 | Category | Restaurants |
-| Full dataset size | 322 records |
-| Free sample size | 32 records (9.94%) |
-| Last export | 2026-04-28T10:43:54.499772+00:00 |
+| Full dataset size | 327 records |
+| Free sample size | 32 records (9.79%) |
+| Last export | 2026-05-05T12:00:13.484631+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-clovis-california-us-sample-732829/releases/download/sample-latest/beamstation_732829_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
