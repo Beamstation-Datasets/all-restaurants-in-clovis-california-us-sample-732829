@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Clovis, California with a population of over 120k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Clovis, California, US",
-  "export_job_id": "427e3d3f-7c8f-4c5a-a22e-d50e09079c1f",
+  "export_job_id": "22369e3a-0177-4759-9121-7f4117d08515",
   "github_org": "Beamstation-Datasets",
   "id_short": 732829,
   "location_name": "Clovis",
   "location_type": "city",
   "repo_name": "all-restaurants-in-clovis-california-us-sample-732829",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/732829/beamstation_732829_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.94,
+  "sample_pct": 9.79,
   "sample_records": 32,
-  "sample_sha256": "5e1f70d0e3844c6be33492584f2646e7cd2b69e78dce7434a115d7e0612efb8b",
-  "sample_size_bytes": 122048,
-  "total_records": 322,
-  "updated_at": "2026-04-28T10:43:54.499772+00:00"
+  "sample_sha256": "0ebadce844a274b6b3b68da15deafb0ca09186c2f8dc7d95db05796f9f2a1b98",
+  "sample_size_bytes": 136174,
+  "total_records": 327,
+  "updated_at": "2026-05-05T12:00:13.484631+00:00"
 }
